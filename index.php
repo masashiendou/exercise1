@@ -10,6 +10,7 @@
 	<script>
 		'use strict';
 	</script>
+	<p>Test</p>
 </body>
 </head>
 
