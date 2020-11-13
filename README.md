@@ -1,3 +1,6 @@
+The code of repository is working on cloud platform that heroku below url;
+https://exercise0001.herokuapp.com/
+
 # exercise1
 Exercise: start making a website with simple header, body and footer. 
 
