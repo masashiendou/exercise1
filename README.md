@@ -1,2 +1,14 @@
 # exercise1
 code review class
+
+Exercise: start making a website with simple header, body and footer. 
+
+Under body, include the following:
+Home
+About Us
+Contact Us 
+
+3 links should be clickable
+Apply css of your choice to make your website more attractive
+===
+For exercise 2, continue exercise 1 and try to replicate this coding for next class. see attached photo:
