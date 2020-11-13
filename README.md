@@ -16,3 +16,4 @@ ___
 
 # exercise2
 continue exercise 1 and try to replicate this coding for next class. see attached photo:
+![exercise](https://github.com/masashiendou/exercise1/blob/main/image/exercise2.png)
