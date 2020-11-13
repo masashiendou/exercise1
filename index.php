@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<htmli lang="ja">
+<html lang="ja">
 <head>
 	<meta charset="utf-8">
-	<title>JavaScript Basics</title>title>
-</meta>head>
+	<title>JavaScript Basics</title>
+</meta>
 <body>
 
 	<script src="js/main.js"></script>
