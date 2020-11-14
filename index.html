@@ -6,11 +6,16 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	<header></header>
+	<header>ContactUs</header>
+	<div>
+		<p>Test</p>
+		<p>Test</p>
+		<p>Test</p>
+	</div>
 	<div>
 		<p>Test</p>
 	</div>
-	<footer></footer>
+	<footer>All Rights Reserved | Copyright 2020</footer>
 	<script src="js/main.js"></script>
 	<script>
 		'use strict';
