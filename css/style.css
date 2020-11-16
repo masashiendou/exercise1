@@ -74,3 +74,44 @@ footer {
 	width: 450px;
 	margin: 0 40px;
 }
+
+.form_box {
+	position: relative;
+	top: 70px;
+}
+
+ul li {
+	list-style: none;
+	margin: 10px;
+}
+
+ul {
+	width: 100px;
+	margin: 0 auto;
+}
+
+label {
+	margin-right: 10px;
+	width: 100px;
+	float: left;
+}
+
+form {
+	width: 100px;
+	top: 140px;
+	position: fixed;
+}
+
+li input#form {
+	width: 300px;
+}
+li input#button {
+	width: 100px;
+}
+li select {
+	width: 300px;
+}
+li textarea {
+	width: 300px;
+	height: 150px;
+}
